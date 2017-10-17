@@ -4,6 +4,7 @@
 package gittest;
 
 /**
+ * Github利用テスト
  * @author sugawara
  * @version $Id$
  *
