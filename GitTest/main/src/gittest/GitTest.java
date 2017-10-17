@@ -14,7 +14,7 @@ package gittest;
 public class GitTest {
 
   /**
-   * @param args
+   * @param args 適当な引数
    * @since 2017/10/16　13:44:38
    */
   public static void main(String[] args) {
